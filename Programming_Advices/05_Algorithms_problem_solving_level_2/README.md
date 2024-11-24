@@ -1,14 +1,15 @@
-# Algorithms problem solving level 1 solutions using C++ Certification
+# Algorithms problem solving level 2 Certification
 
-[![Algo Lev 1](./04_Algorithms_problem_solving_level_1_solutions.png)](./04_Algorithms_problem_solving_level_1_solutions.pdf)
+[![Algo Lev 2](./05_Algorithms_problem_solving_level_2.png)](./05_Algorithms_problem_solving_level_2.pdf)
 
-This is the official certificate for **Algorithms problem solving level 1 solutions using c++**, awarded by **[Programming Advices](../README.md)**.
+This is the official certificate for **Algorithms problem solving level 2**, awarded by **[Programming Advices](../README.md)**.
 
 ## About the Certification
 
 Click below to view the course contents and detailed information:
 
 - **[Certification Content: Problem Solving](https://github.com/BENRADI-ABDELLAH/Problem_Solving/tree/main/ProgrammingAdvices.com/Level__1.1)**
+- **[Certification Content: Projects](https://github.com/BENRADI-ABDELLAH/Problem_Solving/tree/main/ProgrammingAdvices.com/Level__1.1)**
 
 ---
 
