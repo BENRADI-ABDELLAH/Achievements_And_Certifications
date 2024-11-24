@@ -1,8 +1,8 @@
-# Foundation Level 1 Certification
+# Algorithms and Problem Solving Level 1 using flow chart Certification
 
-[![Foundation Level 1 Certificate](./02_Algorithms_problem_solving_level_1.png)](02_Algorithms_problem_solving_level_1.pdf)
+[![Algo Lev 1 Flow Chart](./02_Algorithms_problem_solving_level_1.png)](02_Algorithms_problem_solving_level_1.pdf)
 
-This is the official certificate for **Algorithms problem solving level 1**, awarded by **[Programming Advices](../README.md)**.
+This is the official certificate for **Algorithms problem solving level 1 using flow chart**, awarded by **[Programming Advices](../README.md)**.
 
 ## About the Certification
 
