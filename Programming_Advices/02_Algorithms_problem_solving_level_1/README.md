@@ -8,7 +8,7 @@ This is the official certificate for **Algorithms problem solving level 1**, awa
 
 Click below to view the course contents and detailed information:
 
-- **[Certification Content](../../../Problem_Solving/ProgrammingAdvices.com/Level__1.0/)**
+- **[Certification Content](https://github.com/BENRADI-ABDELLAH/Problem_Solving/tree/main/ProgrammingAdvices.com/Level__1.0)**
 
 ---
 
