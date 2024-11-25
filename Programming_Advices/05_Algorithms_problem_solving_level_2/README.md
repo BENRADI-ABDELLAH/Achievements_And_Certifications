@@ -8,8 +8,10 @@ This is the official certificate for **Algorithms problem solving level 2**, awa
 
 Click below to view the course contents and detailed information:
 
-- **[Certification Content](https://github.com/BENRADI-ABDELLAH/Problem_Solving/tree/main/ProgrammingAdvices.com/Level__2)**
-
+## Certification Content
+- **[Problem Solving](https://github.com/BENRADI-ABDELLAH/Problem_Solving/tree/main/ProgrammingAdvices.com/Level__2)**
+- **[Project 1: Stone - Paper - Scissor](https://github.com/BENRADI-ABDELLAH/Projects/tree/main/Stone_Paper_Scissor)
+- **[Project 2: Math Game](https://github.com/BENRADI-ABDELLAH/Projects/tree/main/Math_Game)
 ---
 
 ### Notes
