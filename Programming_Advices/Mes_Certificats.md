@@ -5,8 +5,8 @@
 | Organisme                                                 | Platforme                                                 | Objectif de la Formation                                  |  
 |-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|  
 |![Logo de l'organisme](./src/logo__ProgrammingAdvices.png) | [En savoir plus sur l'organisme](./README.md)             | Fondamentaux de La Programmation                          |   
-                                                                                                                          Developpement Back End                                    | 
-                                                                                                                          Developpement Full Stack                                  |  
+                                                                                                                        |  Developpement Back End                                   | 
+                                                                                                                        |  Developpement Full Stack                                 |  
 
 
 
