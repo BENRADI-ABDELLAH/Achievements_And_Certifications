@@ -2,15 +2,13 @@
 
 # Mes Certifications Professionnelles
 
-| Organisme                                                 | Platforme                                                 |
- Objectif de la Formation                                  | 
-|-----------|-----------------------------------------------|-----------------------------------------------------------| 
-|![Logo de l'organisme](./src/logo__ProgrammingAdvices.png) | [En savoir plus sur l'organisme](./README.md) |
-Organisme: ![Logo de l'organisme](./src/logo__ProgrammingAdvices.png) | Fondamentaux de La Programmation  
-                                                                        Developpement Back End
-                                                                        Developpement Full Stack            |
+| Organisme                                                 | Platforme                                                 | Objectif de la Formation                                  |  
+|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|  
+|![Logo de l'organisme](./src/logo__ProgrammingAdvices.png) | [En savoir plus sur l'organisme](./README.md)             | Fondamentaux de La Programmation                          |   
+|                                                           |                                                           | Developpement Back End                                    | 
+|                                                           |                                                           | Developpement Full Stack                                  |  
 
-[En savoir plus sur l'organisme](./README.md)
+
 
 ## Tableau des Certifications
 
