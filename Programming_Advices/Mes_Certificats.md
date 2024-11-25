@@ -1,20 +1,5 @@
-# Dernier Certificat Obtenu Chez Programming Advices
-### Algorithms And Problem Solving LEVEL 5
+# Programming Fundamentals, Algorithms And Problem Solving
 
-[![Algo Lev 5](./13_Algorithms_And_Problem_Solving_LEVEL_5/13_algorithms-problem-solving-level-5.png)](./13_Algorithms_And_Problem_Solving_LEVEL_5/13_algorithms-problem-solving-level-5.pdf)
-
-This is the official certificate for **Algorithms problem solving level 5**, awarded by **[Programming Advices](../README.md)**.
-
-
-
-### Certification Content
-- **[Problem Solving](https://github.com/BENRADI-ABDELLAH/Problem_Solving/tree/main/ProgrammingAdvices.com/Level__5)**
-- **[Project](#)**
----
-
-
-
-# Historique De Certifications 
 
 | Organisme                                                 | Platforme                                                 | Objectif de la Formation                                  |  
 |-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|  
