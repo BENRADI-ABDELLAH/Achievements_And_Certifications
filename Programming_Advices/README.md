@@ -5,19 +5,17 @@
 
 | Raison sociale | Organisme à but non lucratif  |
 |----------------|-------------------------------|
-| Platforme      |[www.programmingadvices.com](www.programmingadvices.com) |
-|----------------|-------------------------------|
+| Platforme      | [www.programmingadvices.com](www.programmingadvices.com) |
 | Formateur      | Mohammed Abu-Hadhoud - [Profil LinkedIn](https://www.linkedin.com/in/abuhadhoud/)|
-|----------------|-------------------------------|
+| RoadMap        | [Roadmap](https://programmingadvices.com/p/roadmap)|   
 
 
-Plan de la Formation : [Roadmap](https://programmingadvices.com/p/roadmap)  
-
-## Objectif:  
-Programming Advices a pour objectif de transmettre des compétences pratiques et méthodologiques en programmation informatique,   
+|**Objectif**|
+|------------|
+|Programming Advices a pour objectif de transmettre des compétences pratiques et méthodologiques en programmation informatique,     
 tout en préparant les apprenants aux exigences réelles du marché du travail.  
 L’organisme met un accent particulier sur la réalisation de projets concrets,  
-la résolution de problèmes complexes, et la pratique des meilleures techniques de développement logiciel.  
+la résolution de problèmes complexes, et la pratique des meilleures techniques de développement logiciel.|  
 
 ## Mon Parcours:  
 Ce qui m’a encouragé à suivre la formation proposée par Programming Advices est la fiabilité et l’expertise du formateur, reconnues pour leur pertinence dans le monde professionnel.  
