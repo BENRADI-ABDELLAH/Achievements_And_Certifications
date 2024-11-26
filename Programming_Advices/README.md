@@ -3,13 +3,13 @@
 # Programming Advices
 
 
-Raison sociale: Un organisme à but non lucratif  
+| Raison sociale | Organisme à but non lucratif  |
+|----------------|-------------------------------|
+| Platforme      |[www.programmingadvices.com](www.programmingadvices.com) |
+|----------------|-------------------------------|
+| Formateur      | Mohammed Abu-Hadhoud - [Profil LinkedIn](https://www.linkedin.com/in/abuhadhoud/)|
+|----------------|-------------------------------|
 
-Directeur :  Mohammed Abu-Hadhoud;  Founder, CEO/Senior Management Consultant chez Epya Solutions  
-  
-Plateforme : www.programmingadvices.com  
-
-Formateur : Mohammed Abu-Hadhoud - [Profil LinkedIn](https://www.linkedin.com/in/abuhadhoud/)  
 
 Plan de la Formation : [Roadmap](https://programmingadvices.com/p/roadmap)  
 
