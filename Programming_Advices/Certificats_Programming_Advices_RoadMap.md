@@ -14,7 +14,7 @@
 Objectf | N  | Date d'obtention   | Certification                             | Language   | Level | Lien vers le certificat      |  
 --------|----|--------------------|-------------------------------------------|------------|-------|------------------------------|  
    A    | 13 | *2024-11-20*       | Algorithms and Problem Solving            | C++        | 5     | [Voir](./13_Algorithms_And_Problem_Solving_LEVEL_5/README.md)  |  
-   A    | 12 | *2024-09-02*       | Data Strucute  - LEVEL 1                  | C++        | 1     | [Voir](lien_vers_certificat) |  
+   A    | 12 | *2024-09-02*       | Data Strucute  - LEVEL 1                  | C++        | 1     | [Voir](./12_Data_structures_level_1/README.md) |  
    A    | 11 | *2024-08-08*       | Oop as it should be applications          | C++        | -     | [Voir](lien_vers_certificat) |  
    A    | 10 | *2024-07-01*       | Oop as it should be concepts              | C++        | -     | [Voir](lien_vers_certificat) |  
    A    | 09 | *2024-08-14*       | Fundations LEVEL 2                        | -          | -     | [Voir](lien_vers_certificat) |  
