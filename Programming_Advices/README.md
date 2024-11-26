@@ -12,9 +12,7 @@
 
 |### Objectif|
 |------------|
-|Programming Advices a pour objectif de transmettre des compétences pratiques et méthodologiques en programmation informatique,<br>tout en préparant les apprenants aux exigences réelles du marché du travail.<br>
-L’organisme met un accent particulier sur la réalisation de projets concrets,<br>
-la résolution de problèmes complexes, et la pratique des meilleures techniques de développement logiciel.|  
+|Programming Advices a pour objectif de transmettre des compétences pratiques et méthodologiques en programmation informatique,<br>tout en préparant les apprenants aux exigences réelles du marché du travail.<br>L’organisme met un accent particulier sur la réalisation de projets concrets,<br>la résolution de problèmes complexes, et la pratique des meilleures techniques de développement logiciel.|  
 
 ## Mon Parcours:  
 Ce qui m’a encouragé à suivre la formation proposée par Programming Advices est la fiabilité et l’expertise du formateur, reconnues pour leur pertinence dans le monde professionnel.  
